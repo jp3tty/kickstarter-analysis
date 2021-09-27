@@ -9,3 +9,8 @@ The data was conditionally formatted to quickly reference which campaigns were s
 The data was further evaluated by generating subcategories from the Parent categories, rendering Kickstarter campaigns for theater. The parent category was charted to reference to optimal month to launch kickstarter campaigns.
 
 ### Results
+Chart of Kickstarter launches throughout the year:
+!Date created timeline (https://github.com/jp3tty/kickstarter-analysis/blob/main/Date%20created%20timeline.png)
+
+Chart of Kickstarter outcomes:
+!Pivot outcomes (https://github.com/jp3tty/kickstarter-analysis/blob/main/Pivot%20outcomes.png)

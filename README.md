@@ -37,19 +37,19 @@ One difficulty that stood out occured when working with the Pivot table for "Out
 
 * What are two conclusions you can draw about the Outcomes based on Launch Date?
 
- 1. May appears to be the best time of year to launch Kickstarter campaigns for theater productions. Most of these campaigns are launch  during this month with a steady decline to December.
- 2. Theater production Kickstarter campaigns are successful overall. Every month on the chart shows there are more successful campaigns than failed, the worst of which is December where successful and failed campaigns are near equivalent.
+  1. May appears to be the best time of year to launch Kickstarter campaigns for theater productions. Most of these campaigns are launch  during this month with a steady decline to December.
+  2. Theater production Kickstarter campaigns are successful overall. Every month on the chart shows there are more successful campaigns than failed, the worst of which is December where successful and failed campaigns are near equivalent.
 
 * What can you conclude about the Outcomes based on Goals?
 
-The most outcomes are projects with funding goals that are less than $5,000 or between $35,000 and less then $45,000, and the worst outcomes where between $45,000 to $49,999.
+  The most outcomes are projects with funding goals that are less than $5,000 or between $35,000 and less then $45,000, and the worst outcomes where between $45,000 to $49,999.
 
 * What are some limitations of this dataset?
 
-There may be limitation due to the size of the dataset. At just over 4000 data points, I assume we are missing a great deal of information for our analysis, especially considering the international reach of this data and eight year timespan.
+  There may be limitation due to the size of the dataset. At just over 4000 data points, I assume we are missing a great deal of information for our analysis, especially considering the international reach of this data and eight year timespan.
 
 * What are some other other possible tables and/or graphs that we could create?
 
-We could make a variety of different charts based on the success, failure, and cancelation of any other subcategories. In addition, we could chart comparisons between the subcategories to determine how well each preform.
+  We could make a variety of different charts based on the success, failure, and cancelation of any other subcategories. In addition, we could chart comparisons between the subcategories to determine how well each preform.
 
 

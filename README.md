@@ -37,8 +37,8 @@ One difficulty that stood out occured when working with the Pivot table for "Out
 
 * What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-  1. May appears to be the best time of year to launch Kickstarter campaigns for theater productions. Most of these campaigns are launch  during this month with a steady decline to December.
-  2. Theater production Kickstarter campaigns are successful overall. Every month on the chart shows there are more successful campaigns than failed, the worst of which is December where successful and failed campaigns are near equivalent.
+ 1. May appears to be the best time of year to launch Kickstarter campaigns for theater productions. Most of these campaigns are launch  during this month with a steady decline to December.
+ 2. Theater production Kickstarter campaigns are successful overall. Every month on the chart shows there are more successful campaigns than failed, the worst of which is December where successful and failed campaigns are near equivalent.
 
 * What can you conclude about the Outcomes based on Goals?
 
